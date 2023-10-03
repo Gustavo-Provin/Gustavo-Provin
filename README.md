@@ -2,6 +2,6 @@
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologia.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unisinos.br/">Unisinos</a> e Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/">GrowDev</a>
-- 🌱 &nbsp; Aprendendo mais sobre Html, Css e JavaScript.
+- 🌱 Aprendendo mais sobre Html, Css e JavaScript.
